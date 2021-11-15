@@ -1,0 +1,13 @@
+package com.example.ConsumoApi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ConsumoApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
